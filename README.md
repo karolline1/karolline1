@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @karolline1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-karolline1/karolline1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 ola, eu me chamo Karolline.
+- 👀 eu estou interessada em aprender a programar.
+- 🌱eu estou aprendendo muitas coisas.
+- 💞️ eu estou tentando colaborar com o professor.
